@@ -1,4 +1,4 @@
-# Part 1: Determine the number of Starbucks in a City (25 points)
+# Part 1: Determine the number of Starbucks in a City 
 You have a dataset consisting of information about each Starbucks location.  You are to use MapReduce to provide for each city the number of Starbucks located in that city.  The input is a csv file, starbucks-locations.csv, and the output should be a  file, cityInformation, where each line represents a city and the number of Starbucks located  in that city. 
 
 
